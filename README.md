@@ -6,6 +6,12 @@
 
 
 
+🌀💙 Développeur Flutter & Dart – Applications Mobiles Modernes et Performantes
+
+   Développeur Flutter/Dart passionné, spécialisé dans la création d'applications mobiles performantes et modernes. 
+   Expérience en UI/UX, intégration d'API et architecture robuste pour des apps fluides et scalables. 
+   Toujours prêt à relever de nouveaux défis mobiles.
+
 
 
 # 💻 Tech Stack:
