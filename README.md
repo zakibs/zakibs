@@ -70,15 +70,17 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
----
-[![](https://visitcount.itsvg.in/api?id=zakibs&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div><br>
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=zakibs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
