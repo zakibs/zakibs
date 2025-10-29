@@ -1,5 +1,17 @@
 # 💫 About Me:
-# Hi, I'm Zakariaa <br><br>🧠 Computer application development student at Al Kendi (BTS center)<br/><br>🚀 I create themed desktop apps to stay consisten<br/><br>💡  My link of linkedin for mor info(https://www.linkedin.com/in/zakaria-sabah-580001338/)<br><br><br><br>🌀💙 Flutter & Dart Developer – Modern and High-Performance Mobile Applications<br><br>   Passionate Flutter/Dart developer, specialized in building modern and high-performance mobile applications. <br>   Experienced in UI/UX design, API integration, and robust architecture for smooth and scalable apps. <br>   Always ready to tackle new mobile challenges.<br>
+## Hi, I'm Zakariaa 
+
+🧠 Computer application development student at Al Kendi (BTS center)
+
+🚀 I create themed desktop apps to stay consisten
+
+💡  My link of linkedin for mor info(https://www.linkedin.com/in/zakaria-sabah-580001338/)
+
+🌀💙 Flutter & Dart Developer – Modern and High-Performance Mobile Applications
+
+Passionate Flutter/Dart developer, specialized in building modern and high-performance mobile applications.
+Experienced in UI/UX design, API integration, and robust architecture for smooth and scalable apps.
+Always ready to tackle new mobile challenges.<br>
 
 
 ## 🌐 Socials:
