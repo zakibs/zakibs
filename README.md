@@ -3,8 +3,7 @@
   🧠 Computer application development student at Al Kendi (BTS center)
   
   🚀 I create themed desktop apps to stay consisten
-  
-  💡  My link of linkedin for mor info(https://www.linkedin.com/in/zakaria-sabah-580001338/)
+
 
 <br>
 
