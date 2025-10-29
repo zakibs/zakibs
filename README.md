@@ -6,6 +6,10 @@
   
   💡  My link of linkedin for mor info(https://www.linkedin.com/in/zakaria-sabah-580001338/)
 
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🔗 I’m an application developer. 😊😊  
 
   🌀💙 Flutter & Dart Developer – Modern and High-Performance Mobile Applications
