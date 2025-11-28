@@ -4,7 +4,7 @@
   
   🚀 I create themed desktop apps to stay consisten
 
-  💡 You can see my portfolio here : https://zakibs.github.io/Portfolio-Zakariaa/
+  💡 You can see my portfolio here : https://zakibs.github.io/Portfolio-Zakariaa/public/index.html
 
 
 <br>
